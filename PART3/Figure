@@ -1,0 +1,6 @@
+package PART3;
+
+public interface Figure {
+    double getArea();
+
+}
